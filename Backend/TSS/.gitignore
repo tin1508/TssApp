@@ -1,0 +1,37 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### java output and log
+.class
+.log
+hs_err_pid
+replay_pid
+
+OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+application-local.yaml
+.env
+.env.*
+
